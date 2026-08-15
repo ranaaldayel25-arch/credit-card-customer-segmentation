@@ -16,3 +16,4 @@ The dataset contains more than 50,000 customer records and includes information 
 
 ## Dashboard
 The dashboard presents the main findings through interactive charts, KPIs, and filters.
+![Credit Card Dashboard](credit_card_dashboard.png)
